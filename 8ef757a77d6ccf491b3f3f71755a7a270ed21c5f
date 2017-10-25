@@ -1,0 +1,8 @@
+Code-Review+2: Matthias Runge <mrunge@redhat.com>
+Workflow+1: Sandro Bonazzola <sandro.bonazzola@gmail.com>
+Verified+2: Jenkins CI <admin@rpmfactory.beta.rdoproject.org>
+Submitted-by: Jenkins CI <admin@rpmfactory.beta.rdoproject.org>
+Submitted-at: Wed, 25 Oct 2017 10:24:27 +0000
+Reviewed-on: https://review.rdoproject.org/r/10270
+Project: centos-opstools/rubygem-faraday
+Branch: refs/heads/master
